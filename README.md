@@ -65,7 +65,7 @@ poo_unidad2/
 #### Requisitos:
 
 - Java JDK 8 o superior
-- Terminal o línea de comandos
+- Terminal o línea de comando
 
 #### Pasos para compilar:
 
